@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csuser/Fashion_POS_System/fashion_project.h
+
+/home/csuser/Fashion_POS_System/fashion_project_tests.cpp
+iostream
+-
+string
+-
+gtest/gtest.h
+-
+fashion_project.h
+/home/csuser/Fashion_POS_System/fashion_project.h
+
