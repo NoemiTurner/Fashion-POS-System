@@ -8,14 +8,6 @@
 #include "fashion_project.h"
 
 
-//----------------------------------------------------------------------
-// Default Destructor
-//----------------------------------------------------------------------
-FashionSoftware::~FashionSoftware() 
-{
-
-}
-
 
 //----------------------------------------------------------------------
 // Displays main menu for the fashion software program
@@ -31,4 +23,5 @@ void FashionSoftware::display_main_menu(string company_name)
 {
   cout << "-----------" << company_name << "Software Main Menu-----------" <<endl;
   cout << "1. POS System" <<endl;
+  
 }

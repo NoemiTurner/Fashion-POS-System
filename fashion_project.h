@@ -8,6 +8,10 @@
 #ifndef FASHION_PROJECT_H
 #define FASHION_PROJECT_H
 
+#include <iostream>
+#include <string>
+using namespace std;
+
 class FashionSoftware
 {
 public:
